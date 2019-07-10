@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1562543864 source:c:\users\user\desktop\sat-projekt2\main.cpp
+	<iostream>
+	"sat.h"
+
+1562440419 c:\users\user\desktop\sat-projekt2\sat.h
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<fstream>
+	<sstream>
+
